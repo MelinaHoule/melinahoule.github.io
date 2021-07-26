@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title : Welcome to Melina Houle homepage
 description: Feel free to bookmark this to keep an eye on my project update
+params: 
+    background_img: "foret_lowres.jpg"
